@@ -42,8 +42,9 @@ The excerpt from the paper below includes information on how to locate the seque
 > version of the paper. Correspondence and requests for materials should be
 > addressed to R.E.L. (lenski *at* msu.edu)
 
-**At the beginning of this workshop we gave you [experimental information about these data](http://www.datacarpentry.org/organization-genomics/data/). This lesson uses a *subset* of SRA files, from a small *subproject* of the BioProject database 
-"PRJNA294072". To find these data you can follow the instructions below:** 
+**At the beginning of this workshop we gave you [experimental information about these data](http://www.datacarpentry.org/organization-genomics/data/).**
+
+**This lesson uses the data of a *subset* of SRA files from the publication by Tenaillon, *et al.* 2016, namely from a small *subproject* (PRJNA295606) of the BioProject database "PRJNA294072". We would like to locate and download the metadata as a table. To find these data you can follow the instructions below:** 
 
 1. Notice that the paper references "PRJNA294072" as a "BioProject" at NCBI. If you go to the [NCBI website](https://www.ncbi.nlm.nih.gov/) and search for "PRJNA294072" you will be shown a link to the "Long-Term Evolution Experiment with E. coli" BioProject. Here is the link to that database: [https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA294072](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA294072). 
 
